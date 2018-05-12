@@ -1,0 +1,36 @@
+_repo: Emily-Bront-_25789
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robinson, A. Mary F. (Agnes Mary Frances)
+    aliases:
+    - Robinson, Mary
+    - Duclaux, Agnes Mary Frances Robinson
+    - Darmesteter, Mary
+    - Robinson, Agnes Mary Frances
+    - Duclaux, Mary
+    birthdate: 1857
+    deathdate: 1944
+    gutenberg_agent_id: '6223'
+    url: http://www.gutenberg.org/2009/agents/6223
+    wikipedia: http://en.wikipedia.org/wiki/Agnes_Mary_Frances_Duclaux
+description: This biography of the author of Wuthering Heights, is the story of one
+  of the most influential authors of 19th century Britain.
+gutenberg_issued: '2008-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25789'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brontë, Emily, 1818-1848'
+- !lcsh 'Women and literature -- England -- History -- 19th century'
+- !lcc 'PR'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+title: Emily Brontë
+url: http://www.gutenberg.org/ebooks/25789
